@@ -2,7 +2,7 @@
 
 **Repository:** hotel-booking-cancellation-analysis-python
 
->  📊  Exploratory data analysis of hotel bookings to understand cancellation patterns, main drivers of cancellations, and actionable insights for hotel operations.
+📊  Exploratory data analysis of hotel bookings to understand cancellation patterns, main drivers of cancellations, and actionable insights for hotel operations.
 
 ---
 
@@ -13,6 +13,7 @@
 -   `hotel_booking_report.pdf` --- Exported report summarizing findings
     and visualizations.
 -   `data/` --- Folder containing the dataset(s) used for the analysis.
+-   `images/` --- Folder containing the images used in the README.md file.
 
 ---
 
@@ -44,17 +45,17 @@ goal is to:
 Below are some of the key visualizations generated during the analysis.
 
 ### 🔹 Cancellation Rates by Market Segment
-<img src="images/sample_2.png.png" width="700">
+<img src="images/sample_2.png" width="700">
 
 ---
 
 ### 🔹 Distribution of Numerical Features
-<img src="images/sample_3.png.png" width="900">
+<img src="images/sample_3.png" width="900">
 
 ---
 
 ### 🔹 Waiting Period Over Months by Hotel Type
-<img src="images/sample_1.png.png" width="900">
+<img src="images/sample_1.png" width="900">
 
 ---
 
@@ -71,6 +72,7 @@ jupyter notebook hotel_booking_cancellation_analysis.ipynb
 ## 📁 Structure
 
     ├── data/
+    ├── images/
     ├── hotel_booking_cancellation_analysis.ipynb
     ├── hotel_booking_report.pdf
     └── README.md
